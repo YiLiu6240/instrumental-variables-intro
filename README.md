@@ -1,3 +1,3 @@
 # Intrumental variables estimation, introduction
 
-Bioinformatics reading grou, 07 Febuary 2020
+Bioinformatics reading group, 07 Febuary 2020
